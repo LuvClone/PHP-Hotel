@@ -24,7 +24,7 @@
         <p class="text-center mt-3">
             Lorem, ipsum dolor sit amet consectetur adipisicing elit. <br> Repudiandae quo quibusdam magnam obcaecati
             veniam
-            sint molestiae assumenda ut nobis temporibus.
+            sint molestiae assumenda ut nobis temporibus
         </p>
     </div>
 
